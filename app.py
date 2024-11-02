@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 from aws_cdk import App, CustomResource
 from aws_cdk.aws_lambda import Function, Runtime, Code
 from aws_cdk.aws_iam import PolicyStatement
